@@ -12,3 +12,5 @@ public class Ex3
         }
     }
 }
+
+//write a code if score is above 70 then print a msg congratulation you have passed the test

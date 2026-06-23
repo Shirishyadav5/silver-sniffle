@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.SingleLevelInheritance;
 
 public class Father
 {

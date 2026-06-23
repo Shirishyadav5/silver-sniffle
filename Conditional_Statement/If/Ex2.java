@@ -12,3 +12,5 @@ public class Ex2
         }
     }
 }
+
+//write a code for if shopping amt is greater than 500 then you will get 100 rs is off --print

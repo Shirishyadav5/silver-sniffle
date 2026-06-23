@@ -10,7 +10,8 @@ public class Ex1 {
         }
     }
 
-    /*    true or true=true
+// write code if marks is greater than 35 then it is pass --print pass or fail
+//    /*    true or true=true
     /*    false or true=true
     /*    true or false=true
           false or false=true
