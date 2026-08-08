@@ -1,0 +1,15 @@
+What is an exception?
+Difference between Error and Exception?
+Checked vs Unchecked Exception?
+What is the difference between throw and throws?
+What is the purpose of the finally block?
+Can we have multiple catch blocks?
+Can we write try without catch?
+Can we write catch without try?
+Can finally execute without an exception?
+Can we have multiple finally blocks?
+What happens if an exception occurs inside a catch block?
+What is a custom exception?
+What is the difference between printStackTrace(), getMessage(), and toString()?
+What is the exception hierarchy in Java?
+Can constructors throw exceptions?

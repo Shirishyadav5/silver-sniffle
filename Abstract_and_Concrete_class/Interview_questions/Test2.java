@@ -1,6 +1,6 @@
 package Abstract_and_Concrete_class.Interview_questions;
 
-public class Test2 extends Test1
+abstract public class Test2 extends Test1
 {
 
     public void m2()
@@ -10,11 +10,5 @@ public class Test2 extends Test1
 
 
 
-    static void main(String[] args) {
 
-        Test2 t=new Test2();
-        t.m1();
-        t.m2();
-
-    }
 }
