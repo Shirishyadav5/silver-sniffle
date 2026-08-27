@@ -6,7 +6,7 @@ public class Ex2_To_find_Factorial_number
 
     static void main(String[] args)
     {
-        int num=10;      //5*4*3*4*1
+        int num=4;      //5*4*3*4*1
         int fact=1;
 
         for (int i=num; i>=1; i--)
