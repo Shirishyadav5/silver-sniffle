@@ -16,12 +16,12 @@ public class Sample2_static_variable
 
     }
 
-    public static void m1()
+    public static void m1()      // static method
     {
         System.out.println(num1);       //variable name
     }
 
-    public void m2()
+    public void m2()            //non-static method
     {
         System.out.println(num1);      //variable Name
         }

@@ -11,6 +11,7 @@ public class Ex1_StringClassMethods
         String s5=" ";
 
 //        1.Length()
+
         System.out.println(s1.length());
 
 //       2.toUppercase()
@@ -34,6 +35,25 @@ public class Ex1_StringClassMethods
         System.out.println(s5.isBlank());
 
         System.out.println(s1.charAt(7));
+
+        System.out.println(s1.substring(3,7));
+        System.out.println(s1.substring(3));
+        System.out.println(s1.replace("city","shiva"));
+        System.out.println(s1.replace("v","V"));
+        System.out.println(s1.replaceAll("city","shiva"));
+        System.out.println(s1.replaceAll("v","V"));
+        System.out.println(s1.replaceFirst("v","V"));
+        System.out.println(s1.indexOf("v"));
+        System.out.println(s1.lastIndexOf("v"));
+        System.out.println(s1.concat(" shiva"));
+        System.out.println(s1.trim());
+        System.out.println(s1.split("c")[0]);
+        System.out.println(s1.split("c")[1]);
+//        System.out.println(s1.split("c")[2]);
+//        System.out.println(s1.split("c")[3]);
+        System.out.println(s1.split("c")[0].concat(s1.split("c")[1]));
+//        System.out.println(s1.split("c")[0].concat(s1.split("c")[1]).concat(s1.split("c")[2]));
+
 
 
 

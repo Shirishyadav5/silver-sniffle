@@ -1,4 +1,4 @@
-package Logical;
+package Logical.Practice1;
 
 public class findfactorialnumber
 {
