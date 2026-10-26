@@ -22,4 +22,23 @@ public class Ex6_String_palindrome
             System.out.println("Given String is Not Palindrome");
         }
     }
+
+    public static class Ex13_String_SplitStatement
+    {
+        static void main(String[] args) {
+
+            String S1="my name is shirish";
+
+            String [] ar = S1.split(" ");
+
+            System.out.println(ar[3]);
+            System.out.println("---------");
+
+            for (int i=0; i<=ar.length-1; i++)
+            {
+                System.out.println(ar[i]);
+            }
+
+        }
+    }
 }

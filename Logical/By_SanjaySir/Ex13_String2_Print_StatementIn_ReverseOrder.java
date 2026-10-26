@@ -1,6 +1,6 @@
 package Logical.By_SanjaySir;
 
-public class Ex13_String_Print_StatementIn_ReverseOrder
+public class Ex13_String2_Print_StatementIn_ReverseOrder
 {
     static void main(String[] args) {
 
