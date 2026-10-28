@@ -13,7 +13,7 @@ public class Ex17_Anagram
 //        s1=s1.toLowerCase();
 //        s2=s2.toLowerCase();
 
-//        convert string to Array
+//      convert string to Array
         char[] ar1 = s1.toCharArray();
         char[] ar2 = s2.toCharArray();
 
